@@ -13,7 +13,7 @@
     "express": "4.15.3",
     "gdax": "amejiarosario/gdax-node#heartbeat",
     "lodash": "4.17.4",
-    "moment": "2.18.1",
+    "moment": "2.29.4",
     "mongodb": "2.2.30",
     "morgan": "1.8.2",
     "rxjs": "5.4.2",
