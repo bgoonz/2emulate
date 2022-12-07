@@ -10,7 +10,7 @@
     "commander": "2.11.0",
     "d3": "4.11.0",
     "debug": "amejiarosario/debug#hide-tty-date",
-    "express": "4.15.3",
+    "express": "4.17.3",
     "gdax": "amejiarosario/gdax-node#heartbeat",
     "lodash": "4.17.4",
     "moment": "2.18.1",
