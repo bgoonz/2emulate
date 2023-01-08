@@ -135,7 +135,7 @@
     "jasmine-ts": "^0.2.1",
     "jsdom": "^9.12.0",
     "json-schema-traverse": "^0.4.1",
-    "json5": "^1.0.1",
+    "json5": "^1.0.2",
     "karma": "^1.7.0",
     "karma-chrome-launcher": "^2.1.1",
     "karma-cli": "^1.0.1",
