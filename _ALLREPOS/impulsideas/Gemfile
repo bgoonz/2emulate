@@ -62,7 +62,7 @@ gem 'carrierwave'
 gem 'fog'
 gem 'mini_magick'
 gem 'google-analytics-rails'
-gem 'omniauth-facebook', '1.4.0'
+gem 'omniauth-facebook', '1.5.1'
 gem 'newrelic_rpm'
 gem 'geocoder'
 gem 'workflow' # orders' state machine
